@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BucketListActivity</string>
+    <string name="item_name">Name of Activity</string>
+    <string name="item_description">Activity Descriptor</string>
+    <string name="latitude">Latitude</string>
+    <string name="longitude">Longitude</string>
+    <string name="the_date">Complete By</string>
+</resources>
